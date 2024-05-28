@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Tilt Warp
+- Font Author: Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)
+- Font Source: https://fonts.gstatic.com/s/tiltwarp/v12/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTBxAVfMGOPb.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
